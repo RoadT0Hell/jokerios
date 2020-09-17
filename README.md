@@ -1,3 +1,2 @@
-# jokerios
-
+# Jokerios - Junior верстальщик
 Мой первый хостинг
