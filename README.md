@@ -1,3 +1,3 @@
-# jokerios.github.io
+# jokerios
 
 Мой первый хостинг
